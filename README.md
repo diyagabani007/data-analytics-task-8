@@ -65,7 +65,7 @@ Task8_Dashboard/
 │
 ├── Superstore Sales Dashboard.pbix
 ├── Dashboard_Screenshot.png
-├── Visual Summary.pdf
+├── Visual Summary.docx
 ├── Sample-Superstore.csv
 └── README.md
 ```
